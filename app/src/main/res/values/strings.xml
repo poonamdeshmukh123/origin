@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CustomEmojiKeyboard</string>
+    <string name="emoji">&#x2705;</string>
+</resources>

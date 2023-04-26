@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/basic_control/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1695" />
+        <entry key="..\:/basic_control/app/src/main/res/drawable/ic_activitiesmenu.xml" value="0.1695" />
+        <entry key="..\:/basic_control/app/src/main/res/drawable/ic_foodanddrink.xml" value="0.1695" />
+        <entry key="..\:/basic_control/app/src/main/res/drawable/ic_foodanddrinkmenu.xml" value="0.1695" />
+        <entry key="..\:/basic_control/app/src/main/res/drawable/ic_humanfacemenu.xml" value="0.1695" />
+        <entry key="..\:/basic_control/app/src/main/res/drawable/ic_humanfacesmenu.xml" value="0.1695" />
+        <entry key="..\:/basic_control/app/src/main/res/drawable/ic_objectsmenu.xml" value="0.1695" />
+        <entry key="..\:/basic_control/app/src/main/res/drawable/ic_smilymenu.xml" value="0.1695" />
+        <entry key="..\:/basic_control/app/src/main/res/drawable/ic_symbolsmenu.xml" value="0.1695" />
+        <entry key="..\:/basic_control/app/src/main/res/drawable/ic_travelandplacesmenu.xml" value="0.1695" />
+        <entry key="..\:/basic_control/app/src/main/res/drawable/ic_travelplacesmenu.xml" value="0.1695" />
+        <entry key="..\:/basic_control/app/src/main/res/drawable/roundedcorner.xml" value="0.16666666666666666" />
+        <entry key="..\:/basic_control/app/src/main/res/layout/activity_main.xml" value="0.165625" />
+        <entry key="..\:/basic_control/app/src/main/res/layout/activity_mystart.xml" value="0.1796875" />
+        <entry key="..\:/basic_control/app/src/main/res/layout/bottomsheetlayout.xml" value="0.1" />
+        <entry key="..\:/basic_control/app/src/main/res/layout/child_item.xml" value="0.1796875" />
+        <entry key="..\:/basic_control/app/src/main/res/layout/emoji_menu_item.xml" value="0.1796875" />
+        <entry key="..\:/basic_control/app/src/main/res/layout/parent_item.xml" value="0.1796875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
